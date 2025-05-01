@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Nguyễn Kiều Khánh Hạ
 # 💫 About Me:
 
-🎓 I'm studying at Da Nang University of Economics.<br>💻 My majoring in Management Information Systems.  <br>🌐 I'm passionate about technology, especially web development.<br>🌱 Currently learning ReactJS, HTML, CSS, and JavaScript. <br>🤝 I am seeking internship opportunities to gain hands-on experience and grow as a developer.
+🎓 I'm studying at Da Nang University of Economics.<br>💻 My majoring in Management Information Systems.  <br>🌐 I'm passionate about technology, especially software development.<br>🌱 Currently learning ReactJS, HTML, CSS, and JavaScript. <br>🤝 I am seeking internship opportunities to gain hands-on experience and grow as a developer.
 
 
 ## 🌐 Socials:
